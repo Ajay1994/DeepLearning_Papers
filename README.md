@@ -9,3 +9,7 @@
 ***2. NeurIPS 2018: Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation.***
 
 ***URL:*** https://arxiv.org/pdf/1805.08298.pdf
+
+***3. Nature Scientific Report 2017: Learning a Health Knowledge Graph from Electronic Medical Records***
+
+***URL:*** https://www.nature.com/articles/s41598-017-05778-z.pdf
