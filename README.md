@@ -14,6 +14,6 @@
 
 ***URL:*** https://www.nature.com/articles/s41598-017-05778-z.pdf
 
-***3. KDD 2018: On the Generative Discovery of Structured Medical Knowledge***
+***4. KDD 2018: On the Generative Discovery of Structured Medical Knowledge***
 
 ***URL:*** https://dl.acm.org/doi/pdf/10.1145/3219819.3220010
