@@ -1,4 +1,4 @@
-# Knowledge Graphs and Medical Domain
+# Knowledge Graphs and Medical Imaging Domain
 
 ## This repository contains papers in area at the intersection of knowledge graphs, images, and text generation. 
 
