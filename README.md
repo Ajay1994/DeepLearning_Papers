@@ -17,3 +17,9 @@
 ***4. KDD 2018: On the Generative Discovery of Structured Medical Knowledge***
 
 ***URL:*** https://dl.acm.org/doi/pdf/10.1145/3219819.3220010
+
+***5. XRayGAN: Consistency-preserving Generation of X-ray Images from Radiology Reports***
+
+***URL:*** https://arxiv.org/pdf/2006.10552.pdf
+
+
